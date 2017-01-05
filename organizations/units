@@ -1,0 +1,11 @@
+{
+    "@context": "http://schema.org/",
+        "@type": "Organization",
+        "url": "http://www.nationalacademies.org/bcst/",
+        "name": "Board on Chemical Sciences and Technology",
+        "logo": "http://www.nationalacademies.org/site_assets/groups/nasite/documents/webgraphics/na_nasem_logo.jpg",
+        "parentOrganization": {
+            "@type": "Organization",
+            "name": "Division on Earth and Life Studies"
+            }
+}
