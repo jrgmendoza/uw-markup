@@ -1,0 +1,8 @@
+CREATIVE WORK
+
+{
+    "@context": "http://schema.org/",
+        "@type": "CreativeWork",
+        "@id": "http://www8.nationalacademies.org/cp/meetingview.aspx?MeetingId=8976",
+        "about": "Math, Chemistry and Physics; National Security and Defense"
+}
