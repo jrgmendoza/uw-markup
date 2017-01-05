@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org/",
+       "@type": "Organization",
+       "url": "http://www.example.com/",
+       "contactPoint": [{
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "name": "Jarrett Nguyen",
+            "email": "mailto:jnguyen@nas.edu",
+            "telephone": "+1-425-123-4567"
+            }, {
+            }]
+}
