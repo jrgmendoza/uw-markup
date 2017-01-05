@@ -1,0 +1,31 @@
+COMMITTEE MEMBERS (Delete the member part)
+
+{
+    "@context": "http://schema.org/",
+        "@type": "Organization",
+        "name": "Committee Name",
+        "alternateName": "ID Number",
+        "member": {
+            "@type": "OrganizationRole",
+            "member": [{
+                "@type": "Person",
+                "name": "First Name Last Name",
+                "alternateName": "ID Number",
+                "affiliation": "University of Whatever",
+                "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus."
+                }, {
+                "@type": "Person",
+                "name": "First Name Last Name",
+                "alternateName": "ID Number",
+                "affiliation": "University of Whatever",
+                "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus."
+                }, {
+                "@type": "Person",
+                "name": "First Name Last Name",
+                "alternateName": "ID Number",
+                "affiliation": "University of Whatever",
+                "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus."
+                }
+            ]
+        }
+}
