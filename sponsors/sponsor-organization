@@ -1,0 +1,10 @@
+SPONSORS
+Under CreativeWork, Event, Organization, Person
+{
+    "@context": "http://schema.org/",
+        "sponsor": {
+            "@type": "Organization",
+            "name": "Sponsor's Name",
+            "url": "http://www.example.com/"
+            }
+}
