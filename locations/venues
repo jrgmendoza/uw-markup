@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org/",
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Washington",
+            "addressRegion": "DC",
+            "postalCode": "20001",
+            "streetAddress": "500 5th Street, NW"
+            },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "38.896671",
+            "longitude": "-77.019167"
+            },
+        "name": "Keck Center"
+}
