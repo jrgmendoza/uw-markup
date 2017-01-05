@@ -1,0 +1,59 @@
+DIGITAL OBJECT - AUDIO
+
+{
+    "@context": "http://schema.org/",
+        "@type": "AudioObject",
+        "name": "Audio Title",
+        "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus.",
+        "producer":{
+            "@type": "Organization",
+            "name": "Board Name?"
+        },
+        "about": "Subject 1, Subject 2", 
+        "isPartOf": {
+            "@type": "CreativeWork",
+            "@id": "http://www8.nationalacademies.org/cp/meetingview.aspx?MeetingId=8976"
+            }
+}
+
+
+DIGITAL OBJECT - GRAPHIC
+
+{
+    "@context": "http://schema.org/",
+        "@type": "ImageObject",
+        "name": "The title of the image",
+        "about": "Subject 1, Subject 2",
+        "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus.",
+        "isPartOf": {
+            "@type": "CreativeWork",
+            "@id": "http://www8.nationalacademies.org/cp/meetingview.aspx?MeetingId=8976"
+            }
+}
+
+DIGITAL OBJECT - TEXT DOCUMENT
+
+{
+    "@context": "http://schema.org/",
+        "@type": "TextDigitalDocument",
+        "name": "The title of the document",
+        "about": "Subject 1, Subject 2",
+        "sameAs": "https://10.17226/#####",
+        "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus.",
+        "producer":{
+            "@type": "Organization",
+            "name": "Board Name?"
+        },
+        "isPartOf": {
+            "@type": "CreativeWork",
+            "@id": "http://www8.nationalacademies.org/cp/meetingview.aspx?MeetingId=8976"
+            }
+
+}
+
+DIGITAL OBJECT - VIDEO
+
+{
+    "@context": "http://schema.org/",
+        "@type": "DigitalDocument",
+}
