@@ -1,6 +1,7 @@
 # There are two options for marking up projects. As an individual product or as a creative work.
 # Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getProjectList
 # Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getProjectDetail
+# Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getProjectFinancial
 
 INDIVIDUAL PRODUCT
 {
@@ -24,11 +25,15 @@ CREATIVE WORK
         "about": "project_type",
         "creator": {
             "@type": "Organization",
-            "name": "board",
+            "name": "board_desc",
             "parentOrganization": {
                "@type": "Organization",
                "name": "division_desc"
             }
+        },
+        "contributor": {
+            "@type": "Organization",
+            "name": "collab_major_unit"
         },
         "sponsor": [{
             "@type": "Organization",
