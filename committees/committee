@@ -1,4 +1,4 @@
-COMMITTEE MEMBERS (Delete the member part)
+COMMITTEES
 
 {
     "@context": "http://schema.org/",
@@ -29,3 +29,18 @@ COMMITTEE MEMBERS (Delete the member part)
             ]
         }
 }
+
+COMMITTEE MEMBER
+{
+    "@type": "Person",
+        "name": "First Name Last Name",
+        "alternateName": "ID Number",
+        "affiliation": "University of Whatever",
+        "memberOf": [{
+            "@type": "Organization",
+            "name": "Committee Name",
+            "alternateName": "ID Number"
+            }]
+}
+
+
