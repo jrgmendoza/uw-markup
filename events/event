@@ -9,6 +9,7 @@
         "description": "Lorem ipsum dolor sit amet, ea mucius oportere mei. Vis cu alii stet dicunt. No quot regione fuisset vel. Mei saperet adipiscing ei, per doming latine dignissim ut, cu tale expetenda intellegam nec. Vis natum consulatu te, veniam urbanitas est at. Feugait mnesarchum vis ex, quem veniam repudiandae usu ne. Paulo mnesarchum vituperatoribus ne nec. Nonumy eleifend recteque no pri. Usu verear dolorem eu, sea audire quaeque sapientem eu. Vocibus delicatissimi eos ex, dicat adipisci mel eu, eruditi fuisset periculis ei qui.",
         "image": "http://www.nationalacademies.org/NRC_test/dels.jpg",
         "url": "http://www8.nationalacademies.org/publicevent/",
+        "
         "location": {
             "@type": "Place",
             "address": {
@@ -42,10 +43,5 @@
                 "telephone": "+1-425-123-4567"
                 }] 
             }
-    }, {
-    "@context": "http://schema.org/",
-        "@type": "CreativeWork",
-        "@id": "http://www8.nationalacademies.org/cp/meetingview.aspx?MeetingId=8976",
-        "about": "Math, Chemistry and Physics; National Security and Defense"
-    }
+    }, 
 ]
