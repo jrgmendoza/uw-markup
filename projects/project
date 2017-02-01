@@ -1,3 +1,6 @@
+There are two options for marking up projects. As an individual product or as a creative work.
+
+INDIVIDUAL PRODUCT
 {
     "@context": "http://schema.org/",
         "@type": "IndividualProduct",
@@ -5,4 +8,25 @@
         "name": "Reducing the Threat of Improvised Explosive Device Attacks by Restricting Access to Chemical Explosive Precursors",
         "productID": "DELS-BCST-16-02",
         "description": "To assist the Department of Homeland security (DHS) in its efforts to safeguard the Nation's people, infrastructure, and economy from terrorist use of improvised explosive devices (IEDs), the National Academies of Sciences, Engineering, and Medicine (the Academies) will identify priority precursor chemicals used in the manufacture of IEDs, suggest controls that could be considered as part of a voluntary or regulatory scheme, and examine tradeoffs among those strategies. The committee will: 1. Review the available literature and data, both U.S. and international, to identify and list chemicals that have been used either in the U.S. or internationally or are susceptible for use in IEDs. For chemicals found to be currently used in IEDs, identify these chemicals in order of the most widely used to the least used. 2. For each of the listed chemicals, analyze how the chemical moves through commercial supply chains.  Assess the vulnerabilities and weaknesses of the supply chains with respect to susceptibility to theft and diversion of the chemical. 3. Using the information obtained in Steps 1 and 2 to develop a priority ranking of chemicals to consider for control and discuss the criteria used. 4. Describe and assess existing control measures, both in the U.S. and internationally, for the priority chemicals, including vulnerabilities in the existing framework of voluntary and regulatory controls. 5. Suggest controls that might be effective for a voluntary or regulatory strategy and discuss the tradeoffs between factors such as economics, cost, security, and impact on commerce.  The report will provide a prioritized list of precursor chemicals that appear to pose the greatest risks in terms of their potential for use in the manufacture of IEDs and strategies for voluntary and regulatory control."
+}
+
+
+CREATIVE WORK
+{
+    "@context": "http://schema.org/",
+        "@type": "CreativeWork",
+        "name": "project_name",
+        "sameAs": "http://webapp.nationalacademies.org//cp/projectview.aspx?key=#####",
+        "alternateName": "pin",
+        "description": "statement_of_task",
+        "about": "project_type",
+        "creator": {
+            "@type": "Organization",
+            "name": "board"
+        },
+        "accountablePerson": {
+            "@type": "Person",
+            "name": "rso_name",
+            "email": "rso_email"
+        }
 }
