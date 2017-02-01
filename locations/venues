@@ -14,8 +14,7 @@
             "longitude": "-77.019167"
             },
         "name": "Keck Center"
-}
-{
+},{
     "@context": "http://schema.org/",
         "@type": "Place",
         "address": {
@@ -31,8 +30,7 @@
             "longitude": "-77.047760"
             },
         "name": "National Academy of Sciences Building"
-}
-{
+},{
     "@context": "http://schema.org/",
         "@type": "Place",
         "address": {
@@ -48,8 +46,7 @@
             "longitude": "-117.853950"
             },
         "name": "Arnold and Mabel Beckman Center"
-}
-{
+},{
     "@context": "http://schema.org/",
         "@type": "Place",
         "address": {
