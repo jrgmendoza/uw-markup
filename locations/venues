@@ -1,65 +1,68 @@
-[{
-    "@context": "http://schema.org/",
-        "@type": "Place",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Washington",
-            "addressRegion": "DC",
-            "postalCode": "20001",
-            "streetAddress": "500 5th Street, NW"
-            },
-        "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "38.896671",
-            "longitude": "-77.019167"
-            },
-        "name": "Keck Center"
-},{
-    "@context": "http://schema.org/",
-        "@type": "Place",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Washington",
-            "addressRegion": "DC",
-            "postalCode": "20418",
-            "streetAddress": "2101 Constitution Avenue, NW"
-            },
-        "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "38.892950",
-            "longitude": "-77.047760"
-            },
-        "name": "National Academy of Sciences Building"
-},{
-    "@context": "http://schema.org/",
-        "@type": "Place",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Irving",
-            "addressRegion": "CA",
-            "postalCode": "92617",
-            "streetAddress": "100 Academy Drive"
-            },
-        "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "33.649286",
-            "longitude": "-117.853950"
-            },
-        "name": "Arnold and Mabel Beckman Center"
-},{
-    "@context": "http://schema.org/",
-        "@type": "Place",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Woods Hole",
-            "addressRegion": "MA",
-            "postalCode": "02543",
-            "streetAddress": "314 Quissett Avenue"
-            },
-        "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "41.539837",
-            "longitude": "-70.654838"
-            },
-        "name": "J. Erik Jonsson Conference Center"
-}]
+{
+    "location":
+        [{
+            "@context": "http://schema.org/",
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Washington",
+                    "addressRegion": "DC",
+                    "postalCode": "20001",
+                    "streetAddress": "500 5th Street, NW"
+                    },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": "38.896671",
+                    "longitude": "-77.019167"
+                    },
+                "name": "Keck Center"
+        },{
+            "@context": "http://schema.org/",
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Washington",
+                    "addressRegion": "DC",
+                    "postalCode": "20418",
+                    "streetAddress": "2101 Constitution Avenue, NW"
+                    },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": "38.892950",
+                    "longitude": "-77.047760"
+                    },
+                "name": "National Academy of Sciences Building"
+        },{
+            "@context": "http://schema.org/",
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Irving",
+                    "addressRegion": "CA",
+                    "postalCode": "92617",
+                    "streetAddress": "100 Academy Drive"
+                    },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": "33.649286",
+                    "longitude": "-117.853950"
+                    },
+                "name": "Arnold and Mabel Beckman Center"
+        },{
+            "@context": "http://schema.org/",
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Woods Hole",
+                    "addressRegion": "MA",
+                    "postalCode": "02543",
+                    "streetAddress": "314 Quissett Avenue"
+                    },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": "41.539837",
+                    "longitude": "-70.654838"
+                    },
+                "name": "J. Erik Jonsson Conference Center"
+        }]
+}
