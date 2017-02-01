@@ -11,7 +11,7 @@ COMMITTEES
                 "@type": "Person",
                 "name": "First Name Last Name",
                 "alternateName": "ID Number",
-                "affiliation": "University of Whatever",
+                "affiliation": "University of ...",
                 "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus."
                 }, {
                 "@type": "Person",
@@ -23,7 +23,7 @@ COMMITTEES
                 "@type": "Person",
                 "name": "First Name Last Name",
                 "alternateName": "ID Number",
-                "affiliation": "University of Whatever",
+                "affiliation": "University of ...",
                 "description": "Sit cibo facilisis voluptatibus ad. Mea ei expetenda explicari. Vel eu gubergren hendrerit scripserit, his cu prima erant pertinacia. Pri eu eius homero dolorum, sit cu mentitum tractatos scriptorem, mnesarchum cotidieque vix ei. His fugit vituperata no, mel an appetere accusamus."
                 }
             ]
@@ -35,7 +35,7 @@ COMMITTEE MEMBER
     "@type": "Person",
         "name": "First Name Last Name",
         "alternateName": "ID Number",
-        "affiliation": "University of Whatever",
+        "affiliation": "University of ...",
         "memberOf": [{
             "@type": "Organization",
             "name": "Committee Name",
