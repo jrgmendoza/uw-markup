@@ -1,11 +1,42 @@
+# BOARDS
+# Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getAllBoard
+# Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getBoardDetail
+
 {
     "@context": "http://schema.org/",
         "@type": "Organization",
-        "url": "http://www.nationalacademies.org/bcst/",
-        "name": "Board on Chemical Sciences and Technology",
-        "logo": "http://www.nationalacademies.org/site_assets/groups/nasite/documents/webgraphics/na_nasem_logo.jpg",
+        "name": "Description",
+        "url": "URL",
+        "alternateName": "Abbreviation"
+}
+
+# UNITS
+# Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getAllUnit
+
+{
+    "@context": "http://schema.org/",
+        "@type": "Organization",
+        "name": "Description",
+        "url": "URL",
+        "alternateName": "Abbreviation",
+        "logo": "URL TBD"
+}
+
+# BOARDS BY UNIT
+# Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getAllBoardByUnit
+{
+    "@context": "http://schema.org/",
+        "@type": "Organization",
+        "url": "URL",
+        "name": "Description",
+        "alternateName": "Abbreviation",
         "parentOrganization": {
             "@type": "Organization",
-            "name": "Division on Earth and Life Studies"
+            "name": "Description",
+            "url": "URL",
+            "alternateName": "Abbreviation",
+            "logo": "URL TBD"
             }
 }
+
+
