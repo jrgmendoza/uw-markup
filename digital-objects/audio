@@ -1,4 +1,4 @@
-DIGITAL OBJECT - AUDIO
+# DIGITAL OBJECT - AUDIO
 
 {
     "@context": "http://schema.org/",
@@ -17,7 +17,7 @@ DIGITAL OBJECT - AUDIO
 }
 
 
-DIGITAL OBJECT - GRAPHIC
+# DIGITAL OBJECT - GRAPHIC
 
 {
     "@context": "http://schema.org/",
@@ -31,7 +31,7 @@ DIGITAL OBJECT - GRAPHIC
             }
 }
 
-DIGITAL OBJECT - TEXT DOCUMENT
+# DIGITAL OBJECT - TEXT DOCUMENT
 
 {
     "@context": "http://schema.org/",
@@ -51,7 +51,7 @@ DIGITAL OBJECT - TEXT DOCUMENT
 
 }
 
-DIGITAL OBJECT - VIDEO
+# DIGITAL OBJECT - VIDEO
 
 {
     "@context": "http://schema.org/",
