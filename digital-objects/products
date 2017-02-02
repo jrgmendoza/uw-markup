@@ -1,6 +1,6 @@
-REPORTS AND PROCEEDINGS
-We don't know yet what set of data NAP will feed to NAPAR.
-potential additional fields could include: citation, copyright year, thumbnailUrl, url.
+# REPORTS AND PROCEEDINGS
+# We don't know yet what set of data NAP will feed to NAPAR.
+# Potential additional fields could be: citation, copyright year, thumbnailUrl, url.
 
 {
     "@context": "http://schema.org/",
