@@ -3,7 +3,7 @@
 # Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getProjectDetail
 # Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getProjectFinancial
 
-INDIVIDUAL PRODUCT
+# INDIVIDUAL PRODUCT
 {
     "@context": "http://schema.org/",
         "@type": "IndividualProduct",
@@ -14,7 +14,7 @@ INDIVIDUAL PRODUCT
 }
 
 
-CREATIVE WORK
+# CREATIVE WORK
 {
     "@context": "http://schema.org/",
         "@type": "CreativeWork",
