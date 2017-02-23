@@ -34,12 +34,12 @@ COMMITTEE MEMBER
 {
     "@type": "Person",
         "name": "First Name Last Name",
-        "alternateName": "ID Number",
+        "alternateName": "NAPAR/TNAD ID Number",
         "affiliation": "University of ...",
         "memberOf": [{
             "@type": "Organization",
             "name": "Committee Name",
-            "alternateName": "ID Number"
+            "alternateName": "TNAD ID Number"
         }]
 }
 
