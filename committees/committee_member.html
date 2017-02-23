@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--
+This is the suggested basic html template for an individual, member of a committee
+-->
+    <html>
+    <head>
+        <meta charset="UTF-8">
+<!--
+The <script> tag must include the json markup for the committee member bio and his/her portrait.
+-->
+        <script type="application/ld+json">
+        [{
+            "@type": "Person",
+            "name": "First Name Last Name",
+            "alternateName": "NAPAR/TNAD ID Number",
+            "affiliation": "University of ...",
+            "description": "Bio ...",
+            "memberOf": [{
+                "@type": "Organization",
+                "name": "Committee Name",
+                "alternateName": "TNAD ID Number"
+        }]},
+            {
+                "@type": "ImageObject",
+                "name": "First Name Last Name"
+            }
+        ]
+        </script>
+<!--
+The <title> tag should be the name from NAPAR.
+-->      
+        <title>Name Last Name</title>
+    </head>
+
+    <body>
+<!--
+The content inside the <main> element is unique. In this case, the bio of a committee member. In case of collision, use the <section> tag.
+-->
+        <main>
+<!--
+The member's portrait must be placed inside the <figure> tag.
+-->
+<!--
+As a recommended workflow, the member's portrait should be uploaded first to the CMS and tagged there with the member's name. Such metadata will populate the json template inside the <head> tag above. Otherwise, use the content from the <alt> tag inside <img> below.
+-->
+        <figure>
+            <img src="http://sites.nationalacademies.org/library/images?id+###" alt="Name Last Name" style="">
+        </figure>
+<!--
+The member's name/affiliation/bio iported from NAPAR 4must be placed inside the <article> tag.
+-->
+        <article>
+            <h1>Name Last Name</h1>
+            <p>Affiliation</p>
+            <p>Bio</p>
+            </article>
+        </main>
+    </body>
+
+</html>
