@@ -36,6 +36,7 @@ COMMITTEE MEMBER
         "name": "First Name Last Name",
         "alternateName": "NAPAR/TNAD ID Number",
         "affiliation": "University of ...",
+        "description": "Bio ...",
         "memberOf": [{
             "@type": "Organization",
             "name": "Committee Name",
