@@ -10,6 +10,13 @@ The <script> tag must include the json markup for the committee member bio and h
 -->
         <script type="application/ld+json">
         [{
+            "@context": "http://schema.org/",
+            "@type": "CreativeWork",
+            "name": "project_name",
+            "alternateName": "pin"
+        },
+        {
+            "@context": "http://schema.org/",
             "@type": "Person",
             "name": "First Name Last Name",
             "alternateName": "NAPAR/TNAD ID Number",
@@ -21,6 +28,7 @@ The <script> tag must include the json markup for the committee member bio and h
                 "alternateName": "TNAD ID Number"
         }]},
             {
+                "@context": "http://schema.org/",
                 "@type": "ImageObject",
                 "name": "First Name Last Name"
             }
@@ -31,7 +39,6 @@ The <title> tag should be the name from NAPAR.
 -->      
         <title>Name Last Name</title>
     </head>
-
     <body>
 <!--
 The content inside the <main> element is unique. In this case, the bio of a committee member. In case of collision, use the <section> tag.
@@ -58,5 +65,4 @@ The member's name/affiliation/bio iported from NAPAR 4must be placed inside the 
             </article>
         </main>
     </body>
-
 </html>
