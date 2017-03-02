@@ -1,3 +1,17 @@
+# COMMITTEES
+# Data comes from http://webapp.nationalacademies.org/TNAD/Default.aspx
+
+{
+    "@context": "http://schema.org/",
+        "@type": "Organization",
+        "name": "Name of the committee",
+        "alternateName": "CMIS"
+}
+
+
+
+
+
 # BOARDS
 # Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getAllBoard
 # Data comes from http://krios.nas.edu/projectws/projectws.asmx?op=getBoardDetail
