@@ -1,0 +1,11 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "url": "http://nationalacademies.org",
+    "copyrightHolder": {
+        "@type": "Organization",
+        "name": "Name",
+        "url": "http://www.nationalacademies.org/legal/"
+        },
+    "copyrightYear": "2017"
+    }
